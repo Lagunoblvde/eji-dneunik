@@ -1,0 +1,14 @@
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\bin\Debug\net7.0\ejednevnik.exe
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\bin\Debug\net7.0\ejednevnik.deps.json
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\bin\Debug\net7.0\ejednevnik.runtimeconfig.json
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\bin\Debug\net7.0\ejednevnik.dll
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\bin\Debug\net7.0\ejednevnik.pdb
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.AssemblyInfoInputs.cache
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.AssemblyInfo.cs
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.dll
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\refint\ejednevnik.dll
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.pdb
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ejednevnik.genruntimeconfig.cache
+C:\Users\Vladi\source\repos\ejednevnik\ejednevnik\obj\Debug\net7.0\ref\ejednevnik.dll
